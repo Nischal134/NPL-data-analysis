@@ -1,0 +1,100 @@
+"players_name","players_type","total_batted","matches_name","runs","balls","fours","sixes","sr","overs","maidens","runs_conceded","wickets","economy","wides","no_balls"
+"Arjun Gharti","right handed Batter",7,"Chitwan vs Karnali - 10th Match",11,10,0,0,"110",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Arjun Gharti","right handed Batter",7,"Karnali vs Biratnagar - 13th Match",1,4,0,0,"25",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Arjun Gharti","right handed Batter",7,"Karnali vs Chitwan - Eliminator",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Arjun Gharti","right handed Batter",7,"Karnali vs Janakpur - 3rd Match",33,22,2,2,"150",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Arjun Gharti","right handed Batter",7,"Karnali vs Janakpur - Qualifier 2",2,3,0,0,"66.66",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Arjun Gharti","right handed Batter",7,"Karnali vs Kathmandu - 6th Match",4,3,1,0,"133.33",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Arjun Gharti","right handed Batter",7,"Karnali vs Lumbini - 22nd Match",25,25,2,1,"100",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Arjun Gharti","right handed Batter",7,"Karnali vs S Paschim - 28th Match",3,5,0,0,"60",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Arjun Gharti","right handed Batter",7,"Pokhara vs Karnali - 17th Match",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Babar Hayat","right handed Batter",5,"Karnali vs Janakpur - 3rd Match",12,25,0,0,"48",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Babar Hayat","right handed Batter",5,"Karnali vs Kathmandu - 6th Match",13,18,0,1,"72.22",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Babar Hayat","right handed Batter",5,"Karnali vs Lumbini - 22nd Match",20,22,1,1,"90.9",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Babar Hayat","right handed Batter",5,"Karnali vs S Paschim - 28th Match",13,9,3,0,"144.44",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Babar Hayat","right handed Batter",5,"Pokhara vs Karnali - 17th Match",7,10,0,1,"70",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Bhuvan Karki","left-arm orthodox spin Bowler",0,"Karnali vs Janakpur - 3rd Match",NULL,NULL,NULL,NULL,NULL,"4",0,26,0,"6.5",0,0
+"Bhuvan Karki","left-arm orthodox spin Bowler",0,"Karnali vs Kathmandu - 6th Match",NULL,NULL,NULL,NULL,NULL,"1",0,13,0,"13",0,0
+"Bipin Sharma","left-arm orthodox spin Bowler",2,"Chitwan vs Karnali - 10th Match",NULL,NULL,NULL,NULL,NULL,"4",0,21,3,"5.25",0,0
+"Bipin Sharma","left-arm orthodox spin Bowler",2,"Karnali vs Biratnagar - 13th Match",0,1,0,0,"0","4",1,20,2,"5",1,0
+"Bipin Sharma","left-arm orthodox spin Bowler",2,"Karnali vs Chitwan - Eliminator",NULL,NULL,NULL,NULL,NULL,"4",0,27,1,"6.75",1,0
+"Bipin Sharma","left-arm orthodox spin Bowler",2,"Karnali vs Janakpur - Qualifier 2",NULL,NULL,NULL,NULL,NULL,"4",0,17,3,"4.25",0,0
+"Bipin Sharma","left-arm orthodox spin Bowler",2,"Karnali vs Kathmandu - 6th Match",NULL,NULL,NULL,NULL,NULL,"4",0,18,1,"4.5",1,0
+"Bipin Sharma","left-arm orthodox spin Bowler",2,"Karnali vs Lumbini - 22nd Match",NULL,NULL,NULL,NULL,NULL,"4",1,25,1,"6.25",0,0
+"Bipin Sharma","left-arm orthodox spin Bowler",2,"Karnali vs S Paschim - 28th Match",0,2,0,0,"0","3",0,22,1,"7.33",0,0
+"Bipin Sharma","left-arm orthodox spin Bowler",2,"Pokhara vs Karnali - 17th Match",NULL,NULL,NULL,NULL,NULL,"2",0,21,1,"10.5",0,0
+"Chadwick Walton","WicketKeeper Batter",9,"Chitwan vs Karnali - 10th Match",30,19,0,3,"157.89",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Chadwick Walton","WicketKeeper Batter",9,"Karnali vs Biratnagar - 13th Match",1,5,0,0,"20",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Chadwick Walton","WicketKeeper Batter",9,"Karnali vs Chitwan - Eliminator",46,23,4,3,"200",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Chadwick Walton","WicketKeeper Batter",9,"Karnali vs Janakpur - 3rd Match",8,12,1,0,"66.66",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Chadwick Walton","WicketKeeper Batter",9,"Karnali vs Janakpur - Qualifier 2",11,13,1,0,"84.61",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Chadwick Walton","WicketKeeper Batter",9,"Karnali vs Kathmandu - 6th Match",21,15,5,0,"140",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Chadwick Walton","WicketKeeper Batter",9,"Karnali vs Lumbini - 22nd Match",13,15,0,1,"86.66",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Chadwick Walton","WicketKeeper Batter",9,"Karnali vs S Paschim - 28th Match",11,16,1,0,"68.75",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Chadwick Walton","WicketKeeper Batter",9,"Pokhara vs Karnali - 17th Match",42,34,6,1,"123.52",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dev Khanal","right handed Batter",9,"Chitwan vs Karnali - 10th Match",25,34,1,1,"73.52",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dev Khanal","right handed Batter",9,"Karnali vs Biratnagar - 13th Match",53,48,4,2,"110.41",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dev Khanal","right handed Batter",9,"Karnali vs Chitwan - Eliminator",3,3,0,0,"100","2",0,22,0,"11",1,0
+"Dev Khanal","right handed Batter",9,"Karnali vs Janakpur - 3rd Match",1,5,0,0,"20",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dev Khanal","right handed Batter",9,"Karnali vs Janakpur - Qualifier 2",24,20,3,1,"120",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dev Khanal","right handed Batter",9,"Karnali vs Kathmandu - 6th Match",0,3,0,0,"0",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dev Khanal","right handed Batter",9,"Karnali vs Lumbini - 22nd Match",3,12,0,0,"25",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dev Khanal","right handed Batter",9,"Karnali vs S Paschim - 28th Match",7,12,1,0,"58.33",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dev Khanal","right handed Batter",9,"Pokhara vs Karnali - 17th Match",0,3,0,0,"0",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Gulsan Jha","All Rounder",9,"Chitwan vs Karnali - 10th Match",0,0,0,0,"-","3",0,16,0,"5.33",0,0
+"Gulsan Jha","All Rounder",9,"Karnali vs Biratnagar - 13th Match",0,1,0,0,"0",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Gulsan Jha","All Rounder",9,"Karnali vs Chitwan - Eliminator",0,3,0,0,"0","1",0,7,0,"7",0,0
+"Gulsan Jha","All Rounder",9,"Karnali vs Janakpur - 3rd Match",36,27,1,3,"133.33","1",0,9,0,"9",0,0
+"Gulsan Jha","All Rounder",9,"Karnali vs Janakpur - Qualifier 2",25,20,1,2,"125",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Gulsan Jha","All Rounder",9,"Karnali vs Kathmandu - 6th Match",12,19,1,0,"63.15","3",0,31,1,"10.33",1,0
+"Gulsan Jha","All Rounder",9,"Karnali vs Lumbini - 22nd Match",8,11,1,0,"72.72",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Gulsan Jha","All Rounder",9,"Karnali vs S Paschim - 28th Match",2,2,0,0,"100",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Gulsan Jha","All Rounder",9,"Pokhara vs Karnali - 17th Match",49,37,3,4,"132.43",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Jaykishan Kolsawala","left handed Batter",2,"Karnali vs Chitwan - Eliminator",53,39,6,2,"135.89",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Jaykishan Kolsawala","left handed Batter",2,"Karnali vs Janakpur - Qualifier 2",1,4,0,0,"25",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Mousom Dhakal","right-arm offbreak Bowler",0,"Karnali vs Janakpur - 3rd Match",NULL,NULL,NULL,NULL,NULL,"2.1",0,25,1,"11.53",0,0
+"Nandan Yadav","right-arm medium Bowler",5,"Chitwan vs Karnali - 10th Match",NULL,NULL,NULL,NULL,NULL,"2",1,11,1,"5.5",0,0
+"Nandan Yadav","right-arm medium Bowler",5,"Karnali vs Biratnagar - 13th Match",0,3,0,0,"0","4",0,19,3,"4.75",1,0
+"Nandan Yadav","right-arm medium Bowler",5,"Karnali vs Chitwan - Eliminator",NULL,NULL,NULL,NULL,NULL,"3",0,28,2,"9.33",0,0
+"Nandan Yadav","right-arm medium Bowler",5,"Karnali vs Janakpur - 3rd Match",0,0,0,0,"-","1",0,16,0,"16",2,0
+"Nandan Yadav","right-arm medium Bowler",5,"Karnali vs Janakpur - Qualifier 2",4,9,0,0,"44.44","4",0,27,0,"6.75",0,0
+"Nandan Yadav","right-arm medium Bowler",5,"Karnali vs Kathmandu - 6th Match",NULL,NULL,NULL,NULL,NULL,"3.3",0,32,1,"9.14",3,0
+"Nandan Yadav","right-arm medium Bowler",5,"Karnali vs Lumbini - 22nd Match",0,1,0,0,"0","4",0,26,1,"6.5",0,0
+"Nandan Yadav","right-arm medium Bowler",5,"Karnali vs S Paschim - 28th Match",0,3,0,0,"0","2",0,18,1,"9",1,0
+"Nandan Yadav","right-arm medium Bowler",5,"Pokhara vs Karnali - 17th Match",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Rit Gautam","right handed Batter",2,"Karnali vs Chitwan - Eliminator",0,1,0,0,"0",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Rit Gautam","right handed Batter",2,"Karnali vs S Paschim - 28th Match",0,3,0,0,"0",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Shikhar Dhawan","left handed Batter",4,"Chitwan vs Karnali - 10th Match",45,41,4,1,"109.75",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Shikhar Dhawan","left handed Batter",4,"Karnali vs Biratnagar - 13th Match",5,5,1,0,"100",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Shikhar Dhawan","left handed Batter",4,"Karnali vs Janakpur - 3rd Match",14,14,3,0,"100",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Shikhar Dhawan","left handed Batter",4,"Karnali vs Kathmandu - 6th Match",72,51,4,5,"141.17",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Sompal Kami","All Rounder",6,"Chitwan vs Karnali - 10th Match",NULL,NULL,NULL,NULL,NULL,"4",0,31,1,"7.75",1,0
+"Sompal Kami","All Rounder",6,"Karnali vs Biratnagar - 13th Match",0,0,0,0,"-","4",0,27,1,"6.75",1,0
+"Sompal Kami","All Rounder",6,"Karnali vs Chitwan - Eliminator",0,1,0,0,"0","3",0,22,2,"7.33",1,0
+"Sompal Kami","All Rounder",6,"Karnali vs Janakpur - 3rd Match",29,13,3,1,"223.07","3",0,33,0,"11",0,1
+"Sompal Kami","All Rounder",6,"Karnali vs Janakpur - Qualifier 2",5,8,0,0,"62.5","3",0,23,1,"7.66",2,0
+"Sompal Kami","All Rounder",6,"Karnali vs Kathmandu - 6th Match",NULL,NULL,NULL,NULL,NULL,"4",0,34,1,"8.5",1,0
+"Sompal Kami","All Rounder",6,"Karnali vs Lumbini - 22nd Match",7,3,0,1,"233.33","4",1,24,1,"6",0,0
+"Sompal Kami","All Rounder",6,"Karnali vs S Paschim - 28th Match",11,9,2,0,"122.22","2.2",0,20,1,"8.57",3,0
+"Sompal Kami","All Rounder",6,"Pokhara vs Karnali - 17th Match",NULL,NULL,NULL,NULL,NULL,"2.3",0,26,1,"10.4",0,0
+"Unish Thakuri","All Rounder",2,"Chitwan vs Karnali - 10th Match",NULL,NULL,NULL,NULL,NULL,"1",0,10,0,"10",0,0
+"Unish Thakuri","All Rounder",2,"Karnali vs Biratnagar - 13th Match",0,1,0,0,"0","2",0,17,1,"8.5",0,0
+"Unish Thakuri","All Rounder",2,"Karnali vs Janakpur - Qualifier 2",12,17,2,0,"70.58","1",0,7,0,"7",0,0
+"Unish Thakuri","All Rounder",2,"Karnali vs Lumbini - 22nd Match",NULL,NULL,NULL,NULL,NULL,"1",0,13,0,"13",0,0
+"Unish Thakuri","All Rounder",2,"Pokhara vs Karnali - 17th Match",NULL,NULL,NULL,NULL,NULL,"4",0,17,1,"4.25",0,0
+"William Bosisto","right-arm offbreak Bowler",6,"Chitwan vs Karnali - 10th Match",NULL,NULL,NULL,NULL,NULL,"2",0,17,0,"8.5",0,0
+"William Bosisto","right-arm offbreak Bowler",6,"Karnali vs Biratnagar - 13th Match",66,49,5,3,"134.69","4",0,21,1,"5.25",0,0
+"William Bosisto","right-arm offbreak Bowler",6,"Karnali vs Chitwan - Eliminator",52,39,3,2,"133.33","3",0,20,0,"6.66",2,0
+"William Bosisto","right-arm offbreak Bowler",6,"Karnali vs Janakpur - Qualifier 2",14,15,1,0,"93.33","3",1,25,1,"8.33",0,0
+"William Bosisto","right-arm offbreak Bowler",6,"Karnali vs Lumbini - 22nd Match",44,30,3,3,"146.66","4",0,23,1,"5.75",0,0
+"William Bosisto","right-arm offbreak Bowler",6,"Karnali vs S Paschim - 28th Match",16,24,1,0,"66.66","4",0,30,0,"7.5",0,0
+"William Bosisto","right-arm offbreak Bowler",6,"Pokhara vs Karnali - 17th Match",2,6,0,0,"33.33","4",0,28,6,"7",1,0
+"Zeeshan Maqsood","All Rounder",8,"Chitwan vs Karnali - 10th Match",12,15,1,0,"80","4",0,22,2,"5.5",2,0
+"Zeeshan Maqsood","All Rounder",8,"Karnali vs Biratnagar - 13th Match",2,3,0,0,"66.66","2",0,16,0,"8",0,0
+"Zeeshan Maqsood","All Rounder",8,"Karnali vs Chitwan - Eliminator",14,12,1,1,"116.66","4",0,26,3,"6.5",0,0
+"Zeeshan Maqsood","All Rounder",8,"Karnali vs Janakpur - 3rd Match",0,2,0,0,"0","4",0,33,1,"8.25",1,0
+"Zeeshan Maqsood","All Rounder",8,"Karnali vs Janakpur - Qualifier 2",12,11,2,0,"109.09","4",0,19,1,"4.75",1,0
+"Zeeshan Maqsood","All Rounder",8,"Karnali vs Kathmandu - 6th Match",14,11,1,0,"127.27","4",0,24,1,"6",0,0
+"Zeeshan Maqsood","All Rounder",8,"Karnali vs Lumbini - 22nd Match",1,1,0,0,"100","3",0,12,2,"4",0,0
+"Zeeshan Maqsood","All Rounder",8,"Karnali vs S Paschim - 28th Match",30,35,4,0,"85.71","4",0,14,0,"3.5",1,0
+"Zeeshan Maqsood","All Rounder",8,"Pokhara vs Karnali - 17th Match",NULL,NULL,NULL,NULL,NULL,"4",0,11,0,"2.75",0,0

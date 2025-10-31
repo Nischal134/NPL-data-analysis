@@ -1,0 +1,1238 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20252.25.0514.2217                               -->
+<workbook original-version='18.1' source-build='2025.2.0 (20252.25.0514.2217)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource hasconnection='false' inline='true' name='Parameters' version='18.1'>
+      <aliases enabled='yes' />
+      <column caption='20 Runs' datatype='real' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='20.'>
+        <calculation class='tableau' formula='20.' />
+      </column>
+      <column caption='125 SR' datatype='real' name='[Parameter 2]' param-domain-type='any' role='measure' type='quantitative' value='125.'>
+        <calculation class='tableau' formula='125.' />
+      </column>
+      <column caption='7 fours' datatype='real' name='[Parameter 3]' param-domain-type='any' role='measure' type='quantitative' value='7.'>
+        <calculation class='tableau' formula='7.' />
+      </column>
+      <column caption='5 sixes' datatype='real' name='[Parameter 4]' param-domain-type='any' role='measure' type='quantitative' value='5.'>
+        <calculation class='tableau' formula='5.' />
+      </column>
+    </datasource>
+    <datasource caption='Janakpur_cleaned' inline='true' name='federated.1e5wimy1dot6p41elmb7j18mrizn' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Janakpur_cleaned' name='textscan.11acs8x1yoprou149h2bu0um40fj'>
+            <connection class='textscan' directory='/Users/nischal/Desktop/NPL/Teamwise polishing/Janakpur' filename='Janakpur_cleaned.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.11acs8x1yoprou149h2bu0um40fj' name='Janakpur_cleaned.csv' table='[Janakpur_cleaned#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en' separator=','>
+            <column datatype='string' name='Players_Name' ordinal='0' />
+            <column datatype='string' name='Players_Type' ordinal='1' />
+            <column datatype='integer' name='Total_Batted' ordinal='2' />
+            <column datatype='boolean' name='Did_Bat' ordinal='3' />
+            <column datatype='string' name='Matches_Name' ordinal='4' />
+            <column datatype='integer' name='Runs' ordinal='5' />
+            <column datatype='integer' name='Balls' ordinal='6' />
+            <column datatype='integer' name='Fours' ordinal='7' />
+            <column datatype='integer' name='Sixes' ordinal='8' />
+            <column datatype='real' name='Sr' ordinal='9' />
+            <column datatype='boolean' name='Did_Bowl' ordinal='10' />
+            <column datatype='real' name='Overs' ordinal='11' />
+            <column datatype='integer' name='Maidens' ordinal='12' />
+            <column datatype='integer' name='Runs_Conceded' ordinal='13' />
+            <column datatype='integer' name='Wickets' ordinal='14' />
+            <column datatype='real' name='Economy' ordinal='15' />
+            <column datatype='integer' name='Wides' ordinal='16' />
+            <column datatype='integer' name='No_Balls' ordinal='17' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;¤&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Players_Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Players_Name]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Players_Name</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Players_Type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Players_Type]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Players_Type</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Total_Batted</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Total_Batted]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Total_Batted</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Did_Bat</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[Did_Bat]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Did_Bat</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Matches_Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Matches_Name]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Matches_Name</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Runs</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Runs]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Runs</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Balls</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Balls]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Balls</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Fours</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Fours]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Fours</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sixes</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Sixes]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Sixes</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sr</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Sr]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Sr</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Did_Bowl</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[Did_Bowl]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Did_Bowl</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Overs</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Overs]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Overs</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Maidens</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Maidens]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Maidens</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Runs_Conceded</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Runs_Conceded]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Runs_Conceded</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Wickets</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Wickets]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Wickets</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Economy</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Economy]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Economy</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Wides</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Wides]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>Wides</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>No_Balls</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[No_Balls]</local-name>
+            <parent-name>[Janakpur_cleaned.csv]</parent-name>
+            <remote-alias>No_Balls</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Did Bat' datatype='boolean' name='[Did_Bat]' role='dimension' type='nominal' />
+      <column caption='Did Bowl' datatype='boolean' name='[Did_Bowl]' role='dimension' type='nominal' />
+      <column datatype='integer' name='[Fours]' role='measure' type='quantitative' />
+      <column caption='Matches Name' datatype='string' name='[Matches_Name]' role='dimension' type='nominal' />
+      <column caption='No Balls' datatype='integer' name='[No_Balls]' role='measure' type='quantitative' />
+      <column caption='Players Name' datatype='string' name='[Players_Name]' role='dimension' type='nominal' />
+      <column caption='Players Type' datatype='string' name='[Players_Type]' role='dimension' type='nominal' />
+      <column datatype='integer' name='[Runs]' role='measure' type='quantitative' />
+      <column caption='Runs Conceded' datatype='integer' name='[Runs_Conceded]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[Sixes]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Sr]' role='measure' type='quantitative' />
+      <column caption='Total Batted' datatype='integer' name='[Total_Batted]' role='measure' type='quantitative' />
+      <column caption='Janakpur_cleaned.csv' datatype='table' name='[__tableau_internal_object_id__].[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]' role='measure' type='quantitative' />
+      <column-instance column='[Fours]' derivation='Sum' name='[sum:Fours:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Runs]' derivation='Sum' name='[sum:Runs:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Sixes]' derivation='Sum' name='[sum:Sixes:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Sr]' derivation='Sum' name='[sum:Sr:qk]' pivot='key' type='quantitative' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='/var/folders/hd/wcrr8d5938v82dyh64rrbmhc0000gn/T/tableau-temp/#TableauTemp_1qb3o37105tn1a120tq7j01y4neu.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='09/15/2025 02:47:39 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Players_Name</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Players_Name]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Players_Name</remote-alias>
+              <ordinal>0</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>17</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Players_Type</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Players_Type]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Players_Type</remote-alias>
+              <ordinal>1</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>8</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Total_Batted</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Total_Batted]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Total_Batted</remote-alias>
+              <ordinal>2</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Did_Bat</remote-name>
+              <remote-type>11</remote-type>
+              <local-name>[Did_Bat]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Did_Bat</remote-alias>
+              <ordinal>3</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>boolean</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Matches_Name</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Matches_Name]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Matches_Name</remote-alias>
+              <ordinal>4</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Runs</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Runs]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Runs</remote-alias>
+              <ordinal>5</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>33</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Balls</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Balls]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Balls</remote-alias>
+              <ordinal>6</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>31</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Fours</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Fours]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Fours</remote-alias>
+              <ordinal>7</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>9</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Sixes</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Sixes]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Sixes</remote-alias>
+              <ordinal>8</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>7</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Sr</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Sr]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Sr</remote-alias>
+              <ordinal>9</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>46</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Did_Bowl</remote-name>
+              <remote-type>11</remote-type>
+              <local-name>[Did_Bowl]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Did_Bowl</remote-alias>
+              <ordinal>10</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>boolean</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Overs</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Overs]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Overs</remote-alias>
+              <ordinal>11</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Maidens</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Maidens]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Maidens</remote-alias>
+              <ordinal>12</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Runs_Conceded</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Runs_Conceded]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Runs_Conceded</remote-alias>
+              <ordinal>13</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>32</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Wickets</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Wickets]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Wickets</remote-alias>
+              <ordinal>14</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Economy</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Economy]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Economy</remote-alias>
+              <ordinal>15</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>39</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Wides</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Wides]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Wides</remote-alias>
+              <ordinal>16</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>No_Balls</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[No_Balls]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>No_Balls</remote-alias>
+              <ordinal>17</ordinal>
+              <family>Janakpur_cleaned.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Fours:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Sr:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Runs:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Sixes:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Janakpur_cleaned.csv' id='Janakpur_cleaned.csv_309ACEAAC6BE44D79BB7914F78D289E8'>
+            <properties context=''>
+              <relation connection='textscan.11acs8x1yoprou149h2bu0um40fj' name='Janakpur_cleaned.csv' table='[Janakpur_cleaned#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en' separator=','>
+                  <column datatype='string' name='Players_Name' ordinal='0' />
+                  <column datatype='string' name='Players_Type' ordinal='1' />
+                  <column datatype='integer' name='Total_Batted' ordinal='2' />
+                  <column datatype='boolean' name='Did_Bat' ordinal='3' />
+                  <column datatype='string' name='Matches_Name' ordinal='4' />
+                  <column datatype='integer' name='Runs' ordinal='5' />
+                  <column datatype='integer' name='Balls' ordinal='6' />
+                  <column datatype='integer' name='Fours' ordinal='7' />
+                  <column datatype='integer' name='Sixes' ordinal='8' />
+                  <column datatype='real' name='Sr' ordinal='9' />
+                  <column datatype='boolean' name='Did_Bowl' ordinal='10' />
+                  <column datatype='real' name='Overs' ordinal='11' />
+                  <column datatype='integer' name='Maidens' ordinal='12' />
+                  <column datatype='integer' name='Runs_Conceded' ordinal='13' />
+                  <column datatype='integer' name='Wickets' ordinal='14' />
+                  <column datatype='real' name='Economy' ordinal='15' />
+                  <column datatype='integer' name='Wides' ordinal='16' />
+                  <column datatype='integer' name='No_Balls' ordinal='17' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Hard Hitting'>
+      <layout-options>
+        <title>
+          <formatted-text />
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Janakpur_cleaned' name='federated.1e5wimy1dot6p41elmb7j18mrizn' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='7 fours' datatype='real' name='[Parameter 3]' param-domain-type='any' role='measure' type='quantitative' value='7.'>
+              <calculation class='tableau' formula='7.' />
+            </column>
+            <column caption='5 sixes' datatype='real' name='[Parameter 4]' param-domain-type='any' role='measure' type='quantitative' value='5.'>
+              <calculation class='tableau' formula='5.' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1e5wimy1dot6p41elmb7j18mrizn'>
+            <column datatype='integer' name='[Fours]' role='measure' type='quantitative' />
+            <column caption='Players Name' datatype='string' name='[Players_Name]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Sixes]' role='measure' type='quantitative' />
+            <column-instance column='[Players_Name]' derivation='None' name='[none:Players_Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Fours]' derivation='Sum' name='[sum:Fours:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Sixes]' derivation='Sum' name='[sum:Sixes:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Fours:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Sixes:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]' value='false' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='fill-above' id='refline0' value='#00000000' />
+            <format attr='fill-below' id='refline0' value='#00000000' />
+            <format attr='line-visibility' id='refline0' value='on' />
+            <format attr='line-pattern-only' id='refline0' value='dotted' />
+            <format attr='stroke-color' id='refline0' value='#a0cbe84b' />
+            <format attr='fill-above' id='refline1' value='#00000000' />
+            <format attr='fill-below' id='refline1' value='#00000000' />
+            <format attr='line-visibility' id='refline1' value='on' />
+            <format attr='line-pattern-only' id='refline1' value='dotted' />
+            <format attr='stroke-size' id='refline1' value='3' />
+            <format attr='stroke-color' id='refline1' value='#ff9d9a4b' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]' />
+            </encodings>
+            <reference-line axis-column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[Multiple Values]' enable-instant-analytics='true' formula='average' id='refline0' label-type='none' probability='95' scope='per-pane' value-column='[Parameters].[Parameter 3]' z-order='1' />
+            <reference-line axis-column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[Multiple Values]' enable-instant-analytics='true' formula='average' id='refline1' label-type='none' probability='95' scope='per-pane' value-column='[Parameters].[Parameter 4]' z-order='2' />
+          </pane>
+        </panes>
+        <rows>[federated.1e5wimy1dot6p41elmb7j18mrizn].[Multiple Values]</rows>
+        <cols>[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]</cols>
+        <pages>
+          <column>[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Players_Name:nk]</column>
+        </pages>
+      </table>
+      <simple-id uuid='{B3BF0C93-F1F9-4CC8-A8BD-64B6AA02BC23}' />
+    </worksheet>
+    <worksheet name='Ind. Bat perf.'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#e15759'> &lt;Page Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Janakpur_cleaned' name='federated.1e5wimy1dot6p41elmb7j18mrizn' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='20 Runs' datatype='real' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='20.'>
+              <calculation class='tableau' formula='20.' />
+            </column>
+            <column caption='125 SR' datatype='real' name='[Parameter 2]' param-domain-type='any' role='measure' type='quantitative' value='125.'>
+              <calculation class='tableau' formula='125.' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1e5wimy1dot6p41elmb7j18mrizn'>
+            <column caption='Did Bat' datatype='boolean' name='[Did_Bat]' role='dimension' type='nominal' />
+            <column caption='Matches Name' datatype='string' name='[Matches_Name]' role='dimension' type='nominal' />
+            <column caption='Players Name' datatype='string' name='[Players_Name]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Runs]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Sr]' role='measure' type='quantitative' />
+            <column-instance column='[Did_Bat]' derivation='None' name='[none:Did_Bat:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Matches_Name]' derivation='None' name='[none:Matches_Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Players_Name]' derivation='None' name='[none:Players_Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Runs]' derivation='Sum' name='[sum:Runs:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Sr]' derivation='Sum' name='[sum:Sr:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Did_Bat:nk]'>
+            <groupfilter function='member' level='[none:Did_Bat:nk]' member='true' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Players_Name:nk]'>
+            <groupfilter function='level-members' level='[none:Players_Name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Did_Bat:nk]</column>
+            <column>[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Players_Name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Sr:qk]' field-type='quantitative' fold='true' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Matches_Name:nk]' value='false' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='fill-above' id='refline0' value='#00000000' />
+            <format attr='fill-below' id='refline0' value='#00000000' />
+            <format attr='line-visibility' id='refline0' value='on' />
+            <format attr='line-pattern-only' id='refline0' value='dotted' />
+            <format attr='stroke-size' id='refline0' value='3' />
+            <format attr='stroke-color' id='refline0' value='#e157594b' />
+            <format attr='font-size' id='refline0' value='7' />
+            <format attr='fill-above' id='refline1' value='#00000000' />
+            <format attr='fill-below' id='refline1' value='#00000000' />
+            <format attr='line-visibility' id='refline1' value='on' />
+            <format attr='line-pattern-only' id='refline1' value='dashed' />
+            <format attr='stroke-size' id='refline1' value='1' />
+            <format attr='stroke-color' id='refline1' value='#4e79a74b' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]' />
+            </encodings>
+            <reference-line axis-column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Runs:qk]' enable-instant-analytics='true' formula='average' id='refline0' label-type='automatic' probability='95' scope='per-pane' value-column='[Parameters].[Parameter 1]' z-order='1' />
+            <reference-line axis-column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Sr:qk]' enable-instant-analytics='true' formula='average' id='refline1' label-type='automatic' probability='95' scope='per-pane' value-column='[Parameters].[Parameter 2]' z-order='2' />
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Runs:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='vertical-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Sr:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Runs:qk] + [federated.1e5wimy1dot6p41elmb7j18mrizn].[sum:Sr:qk])</rows>
+        <cols>[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Matches_Name:nk]</cols>
+        <pages>
+          <column>[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Players_Name:nk]</column>
+        </pages>
+      </table>
+      <simple-id uuid='{643B552E-9872-4C19-B969-2A16E3C70A4C}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Ind. Bat perf.'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='dropdown' param='[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Players_Name:nk]' show-apply='true' type='filter' />
+            <card type='currpage' />
+            <card pane-specification-id='1' param='[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]' type='color' />
+            <card mode='type_in' param='[Parameters].[Parameter 1]' type='parameter' />
+            <card mode='type_in' param='[Parameters].[Parameter 2]' type='parameter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <current-page>
+          <multibucket>
+            <bucket>&quot;Shubh Kansakar&quot;</bucket>
+          </multibucket>
+        </current-page>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Did_Bat:nk]</field>
+            <field>[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Matches_Name:nk]</field>
+            <field>[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Players_Name:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{8B6FF4E2-0B28-4607-A002-535099E32050}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Hard Hitting'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]' type='color' />
+            <card mode='type_in' param='[Parameters].[Parameter 3]' type='parameter' />
+            <card mode='type_in' param='[Parameters].[Parameter 4]' type='parameter' />
+            <card type='currpage' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <current-page>
+          <multibucket>
+            <bucket>&quot;Kishore Mahato&quot;</bucket>
+          </multibucket>
+        </current-page>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1e5wimy1dot6p41elmb7j18mrizn].[:Measure Names]</field>
+            <field>[federated.1e5wimy1dot6p41elmb7j18mrizn].[none:Players_Name:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{65350743-865B-476C-B646-F4E39D9F8895}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='384' name='Hard Hitting' width='352'>
+      iVBORw0KGgoAAAANSUhEUgAAAWAAAAGACAYAAACTJbjOAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAOZElEQVR4nO3cX2zddf3H8ddZVmk3us3+Iaz7Qxhu2oQwQsLijMw/CUYN3jC8WrzA6LXx
+      gl3pjTdemBhvIOKVNya7GUGWKGYxIgVpIUNYXKIQ/MeytWWnXQ9NWza644VZf/TXMWe77l3m
+      43HX7+f7+Z7P6cWz33zP57TRbrfbAeCGW1e9AID/VQIMUESAAYoIMEARAQYoIsAARQQYoIgA
+      AxQRYIAiAgxQRIABiggwQBEBBigiwABFBBigiADf5GZmZqqXAHwIAQYoIsAARQQYoIgAAxQR
+      YIAiAgxQRIABiggwQBEBBigiwABFBBigiAADFBFggCICDFBEgAGKCDBAEQEGKCLAAEUEGKCI
+      AAMUEWCAIgIMUESAAYoIMEARAQYoIsAARQQYoIgAAxQRYIAiAgxQRIABiggwQBEBBigiwABF
+      BBigiAADFBFggCICDFBEgAGKCDBAEQEGKCLAAEUEGKCIAAMUEWCAIgIMUESAAYoIMEARAQYo
+      IsAARQQYoIgAAxQRYIAi66sX8FF34cKFnDx5MqOjo2k2m5mfn09PT08GBgZy3333Zf36K/+K
+      W61W3nrrratee+PGjdmzZ89qLBtYAxrtdrtdvYiPorm5uRw9ejQvv/xy5ubmrnjOli1bcujQ
+      odxzzz1Lxp5//vn84he/uOprbNq0KT/60Y9WtM6ZmZls2LBhRdcAVoc74GVqtVp5/vnns3Hj
+      xnz1q1/Nnj170t/fn87OzoyPj+eFF17Iiy++mJ/97Gc5fPhwdu7cuWj+2NhYkuRrX/taenp6
+      rvgaH/vYx1b9fQB1BHiZurq6cujQoezfvz8dHR2Lxm699dbs2rUrPT09OXbsWIaHh5cEeHR0
+      NEnyhS98IRs3brxh6wbWDh/CLVN3d3cOHDiwJL4ftH///iTJ22+/vWRsdHQ03d3d4gv/wwR4
+      FV2+y922bdui4++//36azWZuv/32imUBa4QAr5JWq5WjR48mSfbu3btobHx8PO12W4Dhf5xn
+      wNfZ7OxshoeHc/z48TSbzTz88MMZHBxcdM7lD+AuXryYN998M0myfv369PX1pbu7+7qv6d13
+      373u1wRWzja0FWo2mzl27FimpqYyOTmZc+fO5eLFi9m+fXu+/OUv5/77718y5ze/+U2eeuqp
+      K16vu7s79957b77yla+kt7f3Q193Zmbmmtc4Pz9/zecCN4474BWam5vLSy+9tOT47t27PzSg
+      +/btS6PRWPj50qVLabVamZiYyKlTpzI0NJSRkZEcPnw4O3bsWPEaV+OuGlg5d8DXwezsbKan
+      p9NqtTI2NpbXXnstp06dyvvvv58HH3wwBw8eXBTcq5mZmclTTz2VoaGh9PT05Ac/+MFVd1pc
+      y/V8EQPWJgFeJc1mM0888UROnz6dL33pSzl48OA1z2232/nxj3+cN954I4cPH85dd9217HUI
+      MKxddkGskt7e3jz22GPp6OjIyMhI/pu/c41GY2HnxD//+c/VWiJQTIBXUWdnZ3bv3p2pqamM
+      j48v6xq+jgw3LwFeZefPn0+j0cjmzZsXjv3973+/6px2u53XX389SXLHHXes5vKAQgK8TE8+
+      +WSOHDmSc+fOXXG83W7nmWeeyZkzZ3LnnXems7Nz4fgPf/jDPP7441e8K7506VKefvrpvPHG
+      GxkYGMjAwMCqvg+gjm1oyzQzM5NXX301zz33XAYHB7N169b09fWlo6MjExMTOXHiRMbGxtLV
+      1ZVHH3100dw77rgjJ0+ezJ/+9Kfs2LEjO3fuzNatWzM1NZWTJ0/m7Nmz6ejoyLe//e2sW+dv
+      JNys7IJYptnZ2YyMjGRoaCinT59eMt5oNLJv37489NBDue222xaNtdvt/PGPf8yzzz6b06dP
+      L/mixN69e/PII48smbccdkHA2iXA18H09HQmJiYyOTmZRqOR3t7e9PX15ZZbbvmPc+fn5zM2
+      NpZ33nknmzZtyu23356urq7rtjYBhrVLgG9yAgxrlweMAEUEGKCIAAMUEWCAIgIMUESAAYoI
+      MEARAQYoIsAARQQYoIgAAxQRYIAiAgxQRIABiggwQBEBBigiwABFBBigiAADFBFggCICDFBE
+      gAGKCDBAEQEGKCLAAEUEGKCIAAMUEWCAIgIMUESAAYoIMEARAQYoIsAARQQYoIgAAxQRYIAi
+      AgxQRIABiggwQBEBBigiwABFBBigiAADFBFggCICDFBEgAGKCDBAEQEGKCLAAEUEGKCIAAMU
+      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
+    </thumbnail>
+    <thumbnail height='384' name='Ind. Bat perf.' width='384'>
+      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
+      olI3AAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>

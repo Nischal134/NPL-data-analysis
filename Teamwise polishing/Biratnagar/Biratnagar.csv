@@ -1,0 +1,80 @@
+players_name,players_type,total_batted,matches_name,runs,balls,fours,sixes,sr,overs,maidens,runs_conceded,wickets,economy,wides,no_balls
+Anil Kharel,left-arm orthodox spin Bowler,3,Biratnagar vs Janakpur - 1st Match,7,7,1,0,100,1,0,11,0,11,0,0
+Anil Kharel,left-arm orthodox spin Bowler,3,Biratnagar vs Kathmandu - 26th Match,0,1,0,0,0,4,0,28,2,7,0,0
+Anil Kharel,left-arm orthodox spin Bowler,3,Biratnagar vs Pokhara - 20th match,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Anil Kharel,left-arm orthodox spin Bowler,3,Lumbini vs Biratnagar - 7th Match,NULL,NULL,NULL,NULL,NULL,2,0,29,0,14.5,0,0
+Anil Kharel,left-arm orthodox spin Bowler,3,S Paschim vs Biratnagar - 4th Match,10,11,1,0,90.9,4,0,26,3,6.5,1,0
+Aqib Ilyas,right handed Batter,2,Biratnagar vs Janakpur - 1st Match,15,18,1,0,83.33,3,0,19,0,6.33,0,0
+Aqib Ilyas,right handed Batter,2,Karnali vs Biratnagar - 13th Match,8,14,2,0,57.14,4,0,31,1,7.75,0,0
+Basir Ahamad,left handed Batter,7,Biratnagar vs Chitwan - 23rd Match,68,44,4,4,154.54,4,1,19,1,4.75,0,0
+Basir Ahamad,left handed Batter,7,Biratnagar vs Janakpur - 1st Match,7,9,0,0,77.77,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Basir Ahamad,left handed Batter,7,Biratnagar vs Kathmandu - 26th Match,13,13,0,1,100,4,0,27,2,6.75,0,0
+Basir Ahamad,left handed Batter,7,Biratnagar vs Pokhara - 20th match,21,20,0,1,105,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Basir Ahamad,left handed Batter,7,Karnali vs Biratnagar - 13th Match,8,10,1,0,80,4,0,22,2,5.5,1,0
+Basir Ahamad,left handed Batter,7,Lumbini vs Biratnagar - 7th Match,40,23,4,1,173.91,3,0,28,0,9.33,0,0
+Basir Ahamad,left handed Batter,7,S Paschim vs Biratnagar - 4th Match,24,28,2,0,85.71,1,0,9,1,9,0,0
+Chris Sole,right-arm medium Bowler,6,Biratnagar vs Chitwan - 23rd Match,NULL,NULL,NULL,NULL,NULL,4,0,22,1,5.5,3,0
+Chris Sole,right-arm medium Bowler,6,Biratnagar vs Janakpur - 1st Match,4,5,0,0,80,3,0,31,1,10.33,6,0
+Chris Sole,right-arm medium Bowler,6,Biratnagar vs Kathmandu - 26th Match,1,3,0,0,33.33,4,0,21,2,5.25,4,0
+Chris Sole,right-arm medium Bowler,6,Biratnagar vs Pokhara - 20th match,7,5,0,1,140,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Chris Sole,right-arm medium Bowler,6,Karnali vs Biratnagar - 13th Match,0,3,0,0,0,4,0,25,2,6.25,1,0
+Chris Sole,right-arm medium Bowler,6,Lumbini vs Biratnagar - 7th Match,14,4,2,1,350,4,0,34,0,8.5,3,0
+Chris Sole,right-arm medium Bowler,6,S Paschim vs Biratnagar - 4th Match,9,7,0,1,128.57,4,0,37,1,9.25,2,0
+Dipak Bohara,All Rounder,6,Biratnagar vs Chitwan - 23rd Match,4,3,1,0,133.33,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Dipak Bohara,All Rounder,6,Biratnagar vs Kathmandu - 26th Match,20,24,2,0,83.33,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Dipak Bohara,All Rounder,6,Biratnagar vs Pokhara - 20th match,4,2,1,0,200,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Dipak Bohara,All Rounder,6,Karnali vs Biratnagar - 13th Match,18,13,0,1,138.46,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Dipak Bohara,All Rounder,6,Lumbini vs Biratnagar - 7th Match,9,8,0,0,112.5,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Dipak Bohara,All Rounder,6,S Paschim vs Biratnagar - 4th Match,5,6,0,0,83.33,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ismat Alam,All Rounder,3,Biratnagar vs Kathmandu - 26th Match,5,13,0,0,38.46,2,0,16,0,8,0,0
+Ismat Alam,All Rounder,3,Lumbini vs Biratnagar - 7th Match,0,3,0,0,0,2,0,21,1,10.5,1,0
+Ismat Alam,All Rounder,3,S Paschim vs Biratnagar - 4th Match,6,4,1,0,150,3,0,35,1,11.66,1,0
+Jitendra Mukhiya,right-arm fast-medium Bowler,1,Biratnagar vs Janakpur - 1st Match,0,1,0,0,0,2,0,12,0,6,1,0
+Lokesh Bam,right handed Batter,7,Biratnagar vs Chitwan - 23rd Match,0,2,0,0,0,1,0,8,1,8,0,0
+Lokesh Bam,right handed Batter,7,Biratnagar vs Janakpur - 1st Match,5,6,1,0,83.33,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lokesh Bam,right handed Batter,7,Biratnagar vs Kathmandu - 26th Match,8,9,1,0,88.88,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lokesh Bam,right handed Batter,7,Biratnagar vs Pokhara - 20th match,26,16,2,2,162.5,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lokesh Bam,right handed Batter,7,Karnali vs Biratnagar - 13th Match,19,9,1,2,211.11,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lokesh Bam,right handed Batter,7,Lumbini vs Biratnagar - 7th Match,71,47,3,6,151.06,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lokesh Bam,right handed Batter,7,S Paschim vs Biratnagar - 4th Match,2,7,0,0,28.57,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Martin Guptill,right handed Batter,7,Biratnagar vs Chitwan - 23rd Match,45,35,1,4,128.57,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Martin Guptill,right handed Batter,7,Biratnagar vs Janakpur - 1st Match,55,43,7,1,127.9,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Martin Guptill,right handed Batter,7,Biratnagar vs Pokhara - 20th match,2,4,0,0,50,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Martin Guptill,right handed Batter,7,Biratnagar vs Pokhara - 20th match,5,14,0,0,35.71,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Martin Guptill,right handed Batter,7,Karnali vs Biratnagar - 13th Match,4,4,1,0,100,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Martin Guptill,right handed Batter,7,Lumbini vs Biratnagar - 7th Match,28,17,6,0,164.7,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Martin Guptill,right handed Batter,7,S Paschim vs Biratnagar - 4th Match,0,1,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Naren Bhatta,All Rounder,2,Biratnagar vs Pokhara - 20th match,4,11,0,0,36.36,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Naren Bhatta,All Rounder,2,Karnali vs Biratnagar - 13th Match,7,16,0,0,43.75,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Nicholas Kirton,All Rounder,7,Biratnagar vs Chitwan - 23rd Match,8,15,1,0,53.33,1,0,6,0,6,0,0
+Nicholas Kirton,All Rounder,7,Biratnagar vs Janakpur - 1st Match,9,13,1,0,69.23,0.3,0,6,0,12,0,0
+Nicholas Kirton,All Rounder,7,Biratnagar vs Kathmandu - 26th Match,12,10,2,0,120,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Nicholas Kirton,All Rounder,7,Biratnagar vs Pokhara - 20th match,19,16,0,1,118.75,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Nicholas Kirton,All Rounder,7,Biratnagar vs Pokhara - 20th match,2,3,0,0,66.66,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Nicholas Kirton,All Rounder,7,Karnali vs Biratnagar - 13th Match,40,39,4,1,102.56,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Nicholas Kirton,All Rounder,7,Lumbini vs Biratnagar - 7th Match,0,1,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Nicholas Kirton,All Rounder,7,S Paschim vs Biratnagar - 4th Match,5,9,1,0,55.55,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Pratis GC,All Rounder,5,Biratnagar vs Chitwan - 23rd Match,NULL,NULL,NULL,NULL,NULL,2,0,19,0,9.5,1,0
+Pratis GC,All Rounder,5,Biratnagar vs Janakpur - 1st Match,2,3,0,0,66.66,2,0,14,1,7,3,0
+Pratis GC,All Rounder,5,Biratnagar vs Pokhara - 20th match,4,1,1,0,400,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Pratis GC,All Rounder,5,Karnali vs Biratnagar - 13th Match,7,7,0,0,100,4,1,17,4,4.25,1,0
+Pratis GC,All Rounder,5,Lumbini vs Biratnagar - 7th Match,6,3,0,1,200,3,0,16,0,5.33,0,0
+Pratis GC,All Rounder,5,S Paschim vs Biratnagar - 4th Match,1,3,0,0,33.33,4,0,43,0,10.75,2,0
+Rajesh Pulami,right handed Batter,5,Biratnagar vs Chitwan - 23rd Match,33,20,1,3,165,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Rajesh Pulami,right handed Batter,5,Biratnagar vs Janakpur - 1st Match,1,6,0,0,16.66,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Rajesh Pulami,right handed Batter,5,Biratnagar vs Kathmandu - 26th Match,25,21,1,1,119.04,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Rajesh Pulami,right handed Batter,5,Lumbini vs Biratnagar - 7th Match,4,10,0,0,40,2,0,22,1,11,2,0
+Rajesh Pulami,right handed Batter,5,S Paschim vs Biratnagar - 4th Match,15,15,0,1,100,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Sandeep Lamichhane,legbreak googly Bowler,5,Biratnagar vs Chitwan - 23rd Match,NULL,NULL,NULL,NULL,NULL,4,0,28,2,7,1,0
+Sandeep Lamichhane,legbreak googly Bowler,5,Biratnagar vs Janakpur - 1st Match,7,4,0,1,175,4,0,30,0,7.5,0,0
+Sandeep Lamichhane,legbreak googly Bowler,5,Biratnagar vs Kathmandu - 26th Match,0,2,0,0,0,4,0,19,3,4.75,0,0
+Sandeep Lamichhane,legbreak googly Bowler,5,Biratnagar vs Pokhara - 20th match,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Sandeep Lamichhane,legbreak googly Bowler,5,Karnali vs Biratnagar - 13th Match,6,5,0,0,120,4,0,36,0,9,0,0
+Sandeep Lamichhane,legbreak googly Bowler,5,Lumbini vs Biratnagar - 7th Match,1,3,0,0,33.33,4,0,26,1,6.5,0,0
+Sandeep Lamichhane,legbreak googly Bowler,5,S Paschim vs Biratnagar - 4th Match,8,6,1,0,133.33,4,0,31,0,7.75,0,0
+Scott Edwards,WicketKeeper Batter,3,Biratnagar vs Chitwan - 23rd Match,0,4,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Scott Edwards,WicketKeeper Batter,3,Biratnagar vs Kathmandu - 26th Match,15,14,1,0,107.14,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Scott Edwards,WicketKeeper Batter,3,Biratnagar vs Pokhara - 20th match,45,35,5,0,128.57,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Subash Bhandari,right-arm offbreak Bowler,1,Biratnagar vs Chitwan - 23rd Match,NULL,NULL,NULL,NULL,NULL,4,0,27,1,6.75,0,0
+Subash Bhandari,right-arm offbreak Bowler,1,Biratnagar vs Kathmandu - 26th Match,6,10,0,0,60,0.1,0,4,0,24,0,0
+Subash Bhandari,right-arm offbreak Bowler,1,Karnali vs Biratnagar - 13th Match,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

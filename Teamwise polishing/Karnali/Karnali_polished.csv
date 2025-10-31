@@ -1,0 +1,100 @@
+Players_Name,Players_Type,Total_Batted,Did_Bat,Matches_Name,Runs,Balls,Fours,Sixes,Sr,Did_Bowl,Overs,Maidens,Runs_Conceded,Wickets,Economy,Wides,No_Balls
+Arjun Gharti,Right Handed Batter,7,T,Chitwan  - 10th ,11,10,0,0,110,F,0,0,0,0,0,,0
+,,,T, Biratnagar - 13th ,1,4,0,0,25,F,0,0,0,0,0,0,0
+,,,F, Chitwan - Eliminator,0,0,0,0,0,F,0,0,0,0,0,0,0
+,,,T, Janakpur - 3rd ,33,22,2,2,150,F,0,0,0,0,0,0,0
+,,,T, Janakpur - Qualifier 2,2,3,0,0,66.67,F,0,0,0,0,0,0,0
+,,,T, Kathmandu - 6th ,4,3,1,0,133.33,F,0,0,0,0,0,0,0
+,,,T, Lumbini - 22nd ,25,25,2,1,100,F,0,0,0,0,0,0,0
+,,,T, S Paschim - 28th ,3,5,0,0,60,F,0,0,0,0,0,0,0
+,,,F,Pokhara  - 17th ,0,0,0,0,0,F,0,0,0,0,0,0,0
+Babar Hayat,Right Handed Batter,5,T, Janakpur - 3rd ,12,25,0,0,48,F,0,0,0,0,0,0,0
+,,,T, Kathmandu - 6th ,13,18,0,1,72.22,F,0,0,0,0,0,0,0
+,,,T, Lumbini - 22nd ,20,22,1,1,90.91,F,0,0,0,0,0,0,0
+,,,T, S Paschim - 28th ,13,9,3,0,144.44,F,0,0,0,0,0,0,0
+,,,T,Pokhara  - 17th ,7,10,0,1,70,F,0,0,0,0,0,0,0
+Bhuvan Karki,Left-Arm Orthodox Spin Bowler,0,F, Janakpur - 3rd ,0,0,0,0,0,T,4,0,26,0,6.5,0,0
+,,,F, Kathmandu - 6th ,0,0,0,0,0,T,1,0,13,0,13,0,0
+Bipin Sharma,Left-Arm Orthodox Spin Bowler,2,F,Chitwan  - 10th ,0,0,0,0,0,T,4,0,21,3,5.25,0,0
+,,,T, Biratnagar - 13th ,0,1,0,0,0,T,4,1,20,2,5,1,0
+,,,F, Chitwan - Eliminator,0,0,0,0,0,T,4,0,27,1,6.75,1,0
+,,,F, Janakpur - Qualifier 2,0,0,0,0,0,T,4,0,17,3,4.25,0,0
+,,,F, Kathmandu - 6th ,0,0,0,0,0,T,4,0,18,1,4.5,1,0
+,,,F, Lumbini - 22nd ,0,0,0,0,0,T,4,1,25,1,6.25,0,0
+,,,T, S Paschim - 28th ,0,2,0,0,0,T,3,0,22,1,7.33,0,0
+,,,F,Pokhara  - 17th ,0,0,0,0,0,T,2,0,21,1,10.5,0,0
+Chadwick Walton,Wicketkeeper Batter,9,T,Chitwan  - 10th ,30,19,0,3,157.89,F,0,0,0,0,0,0,0
+,,,T, Biratnagar - 13th ,1,5,0,0,20,F,0,0,0,0,0,0,0
+,,,T, Chitwan - Eliminator,46,23,4,3,200,F,0,0,0,0,0,0,0
+,,,T, Janakpur - 3rd ,8,12,1,0,66.67,F,0,0,0,0,0,0,0
+,,,T, Janakpur - Qualifier 2,11,13,1,0,84.62,F,0,0,0,0,0,0,0
+,,,T, Kathmandu - 6th ,21,15,5,0,140,F,0,0,0,0,0,0,0
+,,,T, Lumbini - 22nd ,13,15,0,1,86.67,F,0,0,0,0,0,0,0
+,,,T, S Paschim - 28th ,11,16,1,0,68.75,F,0,0,0,0,0,0,0
+,,,T,Pokhara  - 17th ,42,34,6,1,123.53,F,0,0,0,0,0,0,0
+Dev Khanal,Right Handed Batter,9,T,Chitwan  - 10th ,25,34,1,1,73.53,F,0,0,0,0,0,0,0
+,,,T, Biratnagar - 13th ,53,48,4,2,110.42,F,0,0,0,0,0,0,0
+,,,T, Chitwan - Eliminator,3,3,0,0,100,T,2,0,22,0,11,1,0
+,,,T, Janakpur - 3rd ,1,5,0,0,20,F,0,0,0,0,0,0,0
+,,,T, Janakpur - Qualifier 2,24,20,3,1,120,F,0,0,0,0,0,0,0
+,,,T, Kathmandu - 6th ,0,3,0,0,0,F,0,0,0,0,0,0,0
+,,,T, Lumbini - 22nd ,3,12,0,0,25,F,0,0,0,0,0,0,0
+,,,T, S Paschim - 28th ,7,12,1,0,58.33,F,0,0,0,0,0,0,0
+,,,T,Pokhara  - 17th ,0,3,0,0,0,F,0,0,0,0,0,0,0
+Gulsan Jha,All Rounder,9,T,Chitwan  - 10th ,0,0,0,0,0,T,3,0,16,0,5.33,0,0
+,,,T, Biratnagar - 13th ,0,1,0,0,0,F,0,0,0,0,0,0,0
+,,,T, Chitwan - Eliminator,0,3,0,0,0,T,1,0,7,0,7,0,0
+,,,T, Janakpur - 3rd ,36,27,1,3,133.33,T,1,0,9,0,9,0,0
+,,,T, Janakpur - Qualifier 2,25,20,1,2,125,F,0,0,0,0,0,0,0
+,,,T, Kathmandu - 6th ,12,19,1,0,63.16,T,3,0,31,1,10.33,1,0
+,,,T, Lumbini - 22nd ,8,11,1,0,72.73,F,0,0,0,0,0,0,0
+,,,T, S Paschim - 28th ,2,2,0,0,100,F,0,0,0,0,0,0,0
+,,,T,Pokhara  - 17th ,49,37,3,4,132.43,F,0,0,0,0,0,0,0
+Jaykishan Kolsawala,Left Handed Batter,2,T, Chitwan - Eliminator,53,39,6,2,135.9,F,0,0,0,0,0,0,0
+,,,T, Janakpur - Qualifier 2,1,4,0,0,25,F,0,0,0,0,0,0,0
+Mousom Dhakal,Right-Arm Offbreak Bowler,0,F, Janakpur - 3rd ,0,0,0,0,0,T,2.1,0,25,1,11.9,0,0
+Nandan Yadav,Right-Arm Medium Bowler,5,F,Chitwan  - 10th ,0,0,0,0,0,T,2,1,11,1,5.5,0,0
+,,,T, Biratnagar - 13th ,0,3,0,0,0,T,4,0,19,3,4.75,1,0
+,,,F, Chitwan - Eliminator,0,0,0,0,0,T,3,0,28,2,9.33,0,0
+,,,T, Janakpur - 3rd ,0,0,0,0,0,T,1,0,16,0,16,2,0
+,,,T, Janakpur - Qualifier 2,4,9,0,0,44.44,T,4,0,27,0,6.75,0,0
+,,,F, Kathmandu - 6th ,0,0,0,0,0,T,3.3,0,32,1,9.7,3,0
+,,,T, Lumbini - 22nd ,0,1,0,0,0,T,4,0,26,1,6.5,0,0
+,,,T, S Paschim - 28th ,0,3,0,0,0,T,2,0,18,1,9,1,0
+,,,F,Pokhara  - 17th ,0,0,0,0,0,F,0,0,0,0,0,0,0
+Rit Gautam,Right Handed Batter,2,T, Chitwan - Eliminator,0,1,0,0,0,F,0,0,0,0,0,0,0
+,,,T, S Paschim - 28th ,0,3,0,0,0,F,0,0,0,0,0,0,0
+Shikhar Dhawan,Left Handed Batter,4,T,Chitwan  - 10th ,45,41,4,1,109.76,F,0,0,0,0,0,0,0
+,,,T, Biratnagar - 13th ,5,5,1,0,100,F,0,0,0,0,0,0,0
+,,,T, Janakpur - 3rd ,14,14,3,0,100,F,0,0,0,0,0,0,0
+,,,T, Kathmandu - 6th ,72,51,4,5,141.18,F,0,0,0,0,0,0,0
+Sompal Kami,All Rounder,6,F,Chitwan  - 10th ,0,0,0,0,0,T,4,0,31,1,7.75,1,0
+,,,T, Biratnagar - 13th ,0,0,0,0,0,T,4,0,27,1,6.75,1,0
+,,,T, Chitwan - Eliminator,0,1,0,0,0,T,3,0,22,2,7.33,1,0
+,,,T, Janakpur - 3rd ,29,13,3,1,223.08,T,3,0,33,0,11,0,1
+,,,T, Janakpur - Qualifier 2,5,8,0,0,62.5,T,3,0,23,1,7.67,2,0
+,,,F, Kathmandu - 6th ,0,0,0,0,0,T,4,0,34,1,8.5,1,0
+,,,T, Lumbini - 22nd ,7,3,0,1,233.33,T,4,1,24,1,6,0,0
+,,,T, S Paschim - 28th ,11,9,2,0,122.22,T,2.2,0,20,1,9.09,3,0
+,,,F,Pokhara  - 17th ,0,0,0,0,0,T,2.3,0,26,1,11.3,0,0
+Unish Thakuri,All Rounder,2,F,Chitwan  - 10th ,0,0,0,0,0,T,1,0,10,0,10,0,0
+,,,T, Biratnagar - 13th ,0,1,0,0,0,T,2,0,17,1,8.5,0,0
+,,,T, Janakpur - Qualifier 2,12,17,2,0,70.59,T,1,0,7,0,7,0,0
+,,,F, Lumbini - 22nd ,0,0,0,0,0,T,1,0,13,0,13,0,0
+,,,F,Pokhara  - 17th ,0,0,0,0,0,T,4,0,17,1,4.25,0,0
+William Bosisto,Right-Arm Offbreak Bowler,6,F,Chitwan  - 10th ,0,0,0,0,0,T,2,0,17,0,8.5,0,0
+,,,T, Biratnagar - 13th ,66,49,5,3,134.69,T,4,0,21,1,5.25,0,0
+,,,T, Chitwan - Eliminator,52,39,3,2,133.33,T,3,0,20,0,6.67,2,0
+,,,T, Janakpur - Qualifier 2,14,15,1,0,93.33,T,3,1,25,1,8.33,0,0
+,,,T, Lumbini - 22nd ,44,30,3,3,146.67,T,4,0,23,1,5.75,0,0
+,,,T, S Paschim - 28th ,16,24,1,0,66.67,T,4,0,30,0,7.5,0,0
+,,,T,Pokhara  - 17th ,2,6,0,0,33.33,T,4,0,28,6,7,1,0
+Zeeshan Maqsood,All Rounder,8,T,Chitwan  - 10th ,12,15,1,0,80,T,4,0,22,2,5.5,2,0
+,,,T, Biratnagar - 13th ,2,3,0,0,66.67,T,2,0,16,0,8,0,0
+,,,T, Chitwan - Eliminator,14,12,1,1,116.67,T,4,0,26,3,6.5,0,0
+,,,T, Janakpur - 3rd ,0,2,0,0,0,T,4,0,33,1,8.25,1,0
+,,,T, Janakpur - Qualifier 2,12,11,2,0,109.09,T,4,0,19,1,4.75,1,0
+,,,T, Kathmandu - 6th ,14,11,1,0,127.27,T,4,0,24,1,6,0,0
+,,,T, Lumbini - 22nd ,1,1,0,0,100,T,3,0,12,2,4,0,0
+,,,T, S Paschim - 28th ,30,35,4,0,85.71,T,4,0,14,0,3.5,1,0
+,,,F,Pokhara  - 17th ,0,0,0,0,0,T,4,0,11,0,2.75,0,0

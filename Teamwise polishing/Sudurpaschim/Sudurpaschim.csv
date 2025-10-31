@@ -1,0 +1,100 @@
+"players_name","players_type","total_batted","matches_name","runs","balls","fours","sixes","sr","overs","maidens","runs_conceded","wickets","economy","wides","no_balls"
+"Aarif Sheikh","right handed Batter",8,"Chitwan vs S Paschim - 15th Match",4,9,0,0,"44.44",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Aarif Sheikh","right handed Batter",8,"Janakpur vs S Paschim - Qualifier 1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Aarif Sheikh","right handed Batter",8,"Karnali vs S Paschim - 28th Match",4,3,1,0,"133.33",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Aarif Sheikh","right handed Batter",8,"S Paschim vs Biratnagar - 4th Match",9,5,2,0,"180",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Aarif Sheikh","right handed Batter",8,"S Paschim vs Janakpur - 18th Match",6,9,0,0,"66.66",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Aarif Sheikh","right handed Batter",8,"S Paschim vs Janakpur - Final",1,3,0,0,"33.33",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Aarif Sheikh","right handed Batter",8,"S Paschim vs Kathmandu - 9th Match",3,3,0,0,"100",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Aarif Sheikh","right handed Batter",8,"S Paschim vs Lumbini - 12th Match",0,1,0,0,"0",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Aarif Sheikh","right handed Batter",8,"S Paschim vs Pokhara - 27th Match",42,38,2,1,"110.52",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Abinash Bohara","right-arm medium Bowler",2,"Chitwan vs S Paschim - 15th Match",0,0,0,0,"-","4",0,38,0,"9.5",2,0
+"Abinash Bohara","right-arm medium Bowler",2,"Janakpur vs S Paschim - Qualifier 1",NULL,NULL,NULL,NULL,NULL,"2",0,9,1,"4.5",0,0
+"Abinash Bohara","right-arm medium Bowler",2,"Karnali vs S Paschim - 28th Match",NULL,NULL,NULL,NULL,NULL,"2",0,14,0,"7",1,0
+"Abinash Bohara","right-arm medium Bowler",2,"S Paschim vs Biratnagar - 4th Match",NULL,NULL,NULL,NULL,NULL,"3",0,17,3,"5.66",0,0
+"Abinash Bohara","right-arm medium Bowler",2,"S Paschim vs Janakpur - 18th Match",2,3,0,0,"66.66",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Abinash Bohara","right-arm medium Bowler",2,"S Paschim vs Janakpur - Final",NULL,NULL,NULL,NULL,NULL,"2",0,19,0,"9.5",0,0
+"Abinash Bohara","right-arm medium Bowler",2,"S Paschim vs Kathmandu - 9th Match",NULL,NULL,NULL,NULL,NULL,"3",1,12,2,"4",1,0
+"Abinash Bohara","right-arm medium Bowler",2,"S Paschim vs Lumbini - 12th Match",NULL,NULL,NULL,NULL,NULL,"4",0,28,1,"7",0,0
+"Abinash Bohara","right-arm medium Bowler",2,"S Paschim vs Pokhara - 27th Match",NULL,NULL,NULL,NULL,NULL,"3",0,36,0,"12",1,0
+"Amit Shrestha","right handed Batter",1,"S Paschim vs Biratnagar - 4th Match",1,5,0,0,"20",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Basant Khatri","All Rounder",1,"S Paschim vs Biratnagar - 4th Match",4,3,0,0,"133.33",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Basant Khatri","All Rounder",1,"S Paschim vs Lumbini - 12th Match",NULL,NULL,NULL,NULL,NULL,"1",0,12,0,"12",0,0
+"Binod Bhandari","WicketKeeper Batter",9,"Chitwan vs S Paschim - 15th Match",10,8,2,0,"125",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Binod Bhandari","WicketKeeper Batter",9,"Janakpur vs S Paschim - Qualifier 1",58,55,3,3,"105.45",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Binod Bhandari","WicketKeeper Batter",9,"Karnali vs S Paschim - 28th Match",4,5,1,0,"80",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Binod Bhandari","WicketKeeper Batter",9,"S Paschim vs Biratnagar - 4th Match",23,20,4,0,"115",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Binod Bhandari","WicketKeeper Batter",9,"S Paschim vs Janakpur - 18th Match",33,37,3,1,"89.18",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Binod Bhandari","WicketKeeper Batter",9,"S Paschim vs Janakpur - Final",41,31,1,3,"132.25",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Binod Bhandari","WicketKeeper Batter",9,"S Paschim vs Kathmandu - 9th Match",35,28,2,2,"125",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Binod Bhandari","WicketKeeper Batter",9,"S Paschim vs Lumbini - 12th Match",17,13,2,0,"130.76",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Binod Bhandari","WicketKeeper Batter",9,"S Paschim vs Pokhara - 27th Match",14,16,1,1,"87.5",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Brandon McMullen","All Rounder",9,"Chitwan vs S Paschim - 15th Match",13,9,2,0,"144.44","3",0,22,1,"7.33",1,0
+"Brandon McMullen","All Rounder",9,"Janakpur vs S Paschim - Qualifier 1",25,19,1,1,"131.57","1",0,9,0,"9",0,0
+"Brandon McMullen","All Rounder",9,"Karnali vs S Paschim - 28th Match",3,6,0,0,"50","2",0,6,0,"3",0,0
+"Brandon McMullen","All Rounder",9,"S Paschim vs Biratnagar - 4th Match",36,26,2,2,"138.46","3",1,8,1,"2.66",0,0
+"Brandon McMullen","All Rounder",9,"S Paschim vs Janakpur - 18th Match",11,17,0,0,"64.7",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Brandon McMullen","All Rounder",9,"S Paschim vs Janakpur - Final",14,12,0,1,"116.66","1",0,13,0,"13",0,0
+"Brandon McMullen","All Rounder",9,"S Paschim vs Kathmandu - 9th Match",53,36,3,4,"147.22","4",0,29,1,"7.25",0,0
+"Brandon McMullen","All Rounder",9,"S Paschim vs Lumbini - 12th Match",23,20,1,1,"115","4",0,21,3,"5.25",0,2
+"Brandon McMullen","All Rounder",9,"S Paschim vs Pokhara - 27th Match",23,16,1,2,"143.75","1",0,21,0,"21",0,0
+"Dilpreet Bajwa","All Rounder",1,"Chitwan vs S Paschim - 15th Match",12,16,1,0,"75",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dipendra Singh Airee","right handed Batter",9,"Chitwan vs S Paschim - 15th Match",1,2,0,0,"50","4",0,32,1,"8",0,0
+"Dipendra Singh Airee","right handed Batter",9,"Janakpur vs S Paschim - Qualifier 1",20,16,1,1,"125","4",0,29,3,"7.25",0,0
+"Dipendra Singh Airee","right handed Batter",9,"Karnali vs S Paschim - 28th Match",38,29,4,1,"131.03","4",0,20,2,"5",1,0
+"Dipendra Singh Airee","right handed Batter",9,"S Paschim vs Biratnagar - 4th Match",57,24,3,5,"237.5","2",0,9,0,"4.5",0,0
+"Dipendra Singh Airee","right handed Batter",9,"S Paschim vs Janakpur - 18th Match",0,3,0,0,"0","3",0,27,2,"9",1,0
+"Dipendra Singh Airee","right handed Batter",9,"S Paschim vs Janakpur - Final",9,7,0,0,"128.57","4",0,40,1,"10",0,0
+"Dipendra Singh Airee","right handed Batter",9,"S Paschim vs Kathmandu - 9th Match",43,25,3,2,"172",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dipendra Singh Airee","right handed Batter",9,"S Paschim vs Lumbini - 12th Match",39,19,4,2,"205.26",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Dipendra Singh Airee","right handed Batter",9,"S Paschim vs Pokhara - 27th Match",20,16,0,1,"125","4",0,18,0,"4.5",0,0
+"Harmeet Singh","All Rounder",3,"Janakpur vs S Paschim - Qualifier 1",NULL,NULL,NULL,NULL,NULL,"4",0,13,0,"3.25",0,0
+"Harmeet Singh","All Rounder",3,"Karnali vs S Paschim - 28th Match",NULL,NULL,NULL,NULL,NULL,"4",0,17,3,"4.25",2,0
+"Harmeet Singh","All Rounder",3,"S Paschim vs Janakpur - 18th Match",1,3,0,0,"33.33","4",2,2,2,"0.5",1,0
+"Harmeet Singh","All Rounder",3,"S Paschim vs Janakpur - Final",14,8,0,1,"175","4",0,32,0,"8",1,0
+"Harmeet Singh","All Rounder",3,"S Paschim vs Pokhara - 27th Match",13,10,0,1,"130","4",0,26,3,"6.5",2,0
+"Ishan Pandey","left handed Batter",7,"Chitwan vs S Paschim - 15th Match",35,28,4,1,"125","1",0,8,0,"8",0,0
+"Ishan Pandey","left handed Batter",7,"Janakpur vs S Paschim - Qualifier 1",NULL,NULL,NULL,NULL,NULL,"1",0,10,0,"10",0,0
+"Ishan Pandey","left handed Batter",7,"Karnali vs S Paschim - 28th Match",38,36,4,0,"105.55",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Ishan Pandey","left handed Batter",7,"S Paschim vs Biratnagar - 4th Match",21,16,2,1,"131.25","1",0,4,1,"4",0,0
+"Ishan Pandey","left handed Batter",7,"S Paschim vs Janakpur - 18th Match",17,14,1,1,"121.42","2",0,11,2,"5.5",3,0
+"Ishan Pandey","left handed Batter",7,"S Paschim vs Janakpur - Final",6,2,1,0,"300","2",0,19,1,"9.5",1,0
+"Ishan Pandey","left handed Batter",7,"S Paschim vs Kathmandu - 9th Match",1,5,0,0,"20",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Ishan Pandey","left handed Batter",7,"S Paschim vs Lumbini - 12th Match",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Ishan Pandey","left handed Batter",7,"S Paschim vs Pokhara - 27th Match",10,11,1,0,"90.9",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naren Saud","All Rounder",3,"Chitwan vs S Paschim - 15th Match",10,8,0,1,"125","1",0,10,0,"10",0,0
+"Naren Saud","All Rounder",3,"Janakpur vs S Paschim - Qualifier 1",NULL,NULL,NULL,NULL,NULL,"1",0,11,0,"11",0,0
+"Naren Saud","All Rounder",3,"Karnali vs S Paschim - 28th Match",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naren Saud","All Rounder",3,"S Paschim vs Janakpur - 18th Match",3,4,0,0,"75","2",0,5,1,"2.5",0,0
+"Naren Saud","All Rounder",3,"S Paschim vs Janakpur - Final",1,1,0,0,"100","0.2",0,3,0,"9",0,0
+"Naren Saud","All Rounder",3,"S Paschim vs Kathmandu - 9th Match",NULL,NULL,NULL,NULL,NULL,"3.5",0,19,5,"4.95",0,0
+"Naren Saud","All Rounder",3,"S Paschim vs Lumbini - 12th Match",NULL,NULL,NULL,NULL,NULL,"3",0,29,0,"9.66",1,0
+"Naren Saud","All Rounder",3,"S Paschim vs Pokhara - 27th Match",NULL,NULL,NULL,NULL,NULL,"3",0,20,0,"6.66",2,0
+"Naresh Budayair","right handed Batter",4,"Chitwan vs S Paschim - 15th Match",5,10,0,0,"50",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naresh Budayair","right handed Batter",4,"Janakpur vs S Paschim - Qualifier 1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naresh Budayair","right handed Batter",4,"Karnali vs S Paschim - 28th Match",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naresh Budayair","right handed Batter",4,"S Paschim vs Biratnagar - 4th Match",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naresh Budayair","right handed Batter",4,"S Paschim vs Janakpur - 18th Match",9,6,1,0,"150",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naresh Budayair","right handed Batter",4,"S Paschim vs Janakpur - Final",8,3,0,1,"266.66",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naresh Budayair","right handed Batter",4,"S Paschim vs Kathmandu - 9th Match",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naresh Budayair","right handed Batter",4,"S Paschim vs Lumbini - 12th Match",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Naresh Budayair","right handed Batter",4,"S Paschim vs Pokhara - 27th Match",6,3,1,0,"200",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Rohan Mustafa","All Rounder",1,"S Paschim vs Kathmandu - 9th Match",4,7,0,0,"57.14","1",0,8,0,"8",0,0
+"Saif Zaib","All Rounder",9,"Chitwan vs S Paschim - 15th Match",18,11,3,0,"163.63","3",0,22,1,"7.33",0,0
+"Saif Zaib","All Rounder",9,"Janakpur vs S Paschim - Qualifier 1",32,21,3,2,"152.38","3",0,20,2,"6.66",0,0
+"Saif Zaib","All Rounder",9,"Karnali vs S Paschim - 28th Match",11,13,2,0,"84.61","4",0,14,1,"3.5",0,0
+"Saif Zaib","All Rounder",9,"S Paschim vs Biratnagar - 4th Match",14,15,0,1,"93.33","3.1",0,24,1,"7.57",0,0
+"Saif Zaib","All Rounder",9,"S Paschim vs Janakpur - 18th Match",21,21,0,2,"100","1",0,2,1,"2",0,0
+"Saif Zaib","All Rounder",9,"S Paschim vs Janakpur - Final",69,43,8,2,"160.46","3",0,14,1,"4.66",0,0
+"Saif Zaib","All Rounder",9,"S Paschim vs Kathmandu - 9th Match",11,9,1,0,"122.22","2",0,15,1,"7.5",0,0
+"Saif Zaib","All Rounder",9,"S Paschim vs Lumbini - 12th Match",90,61,6,5,"147.54","4",0,33,3,"8.25",1,0
+"Saif Zaib","All Rounder",9,"S Paschim vs Pokhara - 27th Match",9,8,1,0,"112.5","1",0,7,1,"7",0,0
+"Scott Kuggeleijn","All Rounder",7,"Chitwan vs S Paschim - 15th Match",16,10,3,0,"160","4",0,29,2,"7.25",1,0
+"Scott Kuggeleijn","All Rounder",7,"Janakpur vs S Paschim - Qualifier 1",NULL,NULL,NULL,NULL,NULL,"4",0,32,1,"8",3,0
+"Scott Kuggeleijn","All Rounder",7,"Karnali vs S Paschim - 28th Match",NULL,NULL,NULL,NULL,NULL,"4",0,29,2,"7.25",1,0
+"Scott Kuggeleijn","All Rounder",7,"S Paschim vs Biratnagar - 4th Match",10,6,2,0,"166.66","4",0,30,3,"7.5",3,0
+"Scott Kuggeleijn","All Rounder",7,"S Paschim vs Janakpur - 18th Match",7,3,0,1,"233.33","0.1",0,0,1,"0",0,0
+"Scott Kuggeleijn","All Rounder",7,"S Paschim vs Janakpur - Final",13,10,2,0,"130","3",0,43,1,"14.33",4,0
+"Scott Kuggeleijn","All Rounder",7,"S Paschim vs Kathmandu - 9th Match",7,7,0,0,"100","2",0,10,0,"5",0,0
+"Scott Kuggeleijn","All Rounder",7,"S Paschim vs Lumbini - 12th Match",11,6,0,1,"183.33","4",0,19,2,"4.75",3,0
+"Scott Kuggeleijn","All Rounder",7,"S Paschim vs Pokhara - 27th Match",2,3,0,0,"66.66","3.4",1,18,5,"4.9",3,0
