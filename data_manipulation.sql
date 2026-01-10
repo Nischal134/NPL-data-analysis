@@ -52,7 +52,11 @@ SELECT * FROM extra_bat LIMIT 20;
 Truncate table extra_bat;
 
 
--- imported datas from batting bowling and profile,extrabat
+-- imported datas from batting bowling and profile,extrabat, import was done in terminal shell
+-- used code for import for bat : (In terminal this was the code.)
+-- psql -U postgres -d Project 
+-- Project=# \copy Batting(Matches_name, Player_Name, Runs, Balls, Fours, Sixes, SR) 
+-- FROM '/Users/nischal/Desktop/NPL/Mainstream data/Batting.csv' DELIMITER ',' CSV HEADER;
 SELECT Batting.player_name,player_profiles.Team_name,player_profiles.Players_type,Batting.Matches_name, Batting.Runs, Batting.Balls, Batting.Fours, Batting.Sixes, Batting.SR
 	FROM Batting 
 INNER JOIN player_profiles ON Batting.Player_name = player_profiles.Players_name
