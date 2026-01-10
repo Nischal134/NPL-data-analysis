@@ -1,6 +1,5 @@
 CREATE TABLE Batting (
-    -- Define your columns and data types here
-    -- Example columns (you must adjust according to your CSV headers)
+    -- Defined columns and data types here
     Matches_name TEXT,
     Player_Name TEXT,
     Runs INT,
@@ -14,8 +13,7 @@ Truncate table Batting;
 SELECT * FROM Batting where Player_Name ='Lokesh Bam';
 
 CREATE TABLE Bowling (
-    -- Define your columns and data types here
-    -- Example columns (you must adjust according to your CSV headers)
+    -- Defined columns and data types here
     matches_name TEXT,
     Player_Name TEXT,
     Overs TEXT,
